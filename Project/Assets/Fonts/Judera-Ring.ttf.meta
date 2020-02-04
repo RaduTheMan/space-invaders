@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: aeeb4fa1f66a39c4d986db3539b04636
+timeCreated: 1522410665
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Judera Ring
+  fontNames:
+  - Judera Ring
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b5e8ebb09977cc41a9dd4ffebcae512, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
